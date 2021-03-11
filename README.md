@@ -1,7 +1,7 @@
-##Internship Duties
+## Internship Duties
 The training was performed from 1st November 2020 to 30th November 2020.
 
-#Selected intern's day to day responsibilities included:
+# Selected intern's day to day responsibilities included:
 1.	Writing codes to collect, crunch and analyze data from internal and external sources.
 2.	Building and tuning machine learning models using R, Python, and sci-kit-learn.
 3.	Creating linkages between various data within business intelligence software to enable predictive modeling and trend analysis on a given dataset.
