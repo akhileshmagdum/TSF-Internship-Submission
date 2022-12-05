@@ -13,5 +13,5 @@ The training was performed from 1st November 2020 to 30th November 2020.
 | Prediction using Supervised ML    | Python, Numpy   |
 | Prediction using Unsupervised ML  | Scikit Learn    |
 
-### Code Runthrough video:
+### Code Walk-through video:
 [![Step Image](https://img.youtube.com/vi/uZTZsF-Lg98/0.jpg)](https://www.youtube.com/watch?v=uZTZsF-Lg98)
