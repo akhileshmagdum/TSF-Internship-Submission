@@ -14,4 +14,4 @@ The training was performed from 1st November 2020 to 30th November 2020.
 | Prediction using Unsupervised ML  | Scikit Learn    |
 
 ### Code Runthrough video:
-https://www.youtube.com/watch?v=uZTZsF-Lg98
+[![Step Image](https://img.youtube.com/vi/uZTZsF-Lg98/0.jpg)](https://www.youtube.com/watch?v=uZTZsF-Lg98)
